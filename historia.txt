@@ -6,6 +6,8 @@ Esto lo escribo como si fuese lo del minuto -14:47 de clase 29
 
 Experimento 1 (clase 35)
 
+Experimento 2 (clase 35)
+
 Master (Main) 1 - clase 35: Rebase = mala práctica.
 
 Master 2 - clase 35
